@@ -1,0 +1,6 @@
+
+kibo:
+  url: https://t34486.sandbox.mozu.com
+  applicationId: posit.ign_dev.1.0.0.Release
+  sharedSecret: f15ec54b8547409a9318b404d1f7375a
+  grantType:  client_credentials
